@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Jun, your local genderfluid software engineer in training! I'm currently studying at Concordia University in Montreal
+I use they/them pronouns
+
+### 📫 Where you can find me
+
+[LinkedIn](https://www.linkedin.com/in/arejayelle)
+
+## Past work
+- Software Developer Intern - Unity (Summer 2020)
+- Software Desinger Intern  - Matrox (Summer 2019)
+
 <!--
 **arejayelle/arejayelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
