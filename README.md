@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Jun, your local genderfluid software engineer in training! I'm currently studying at Concordia University in Montreal
-I use they/them pronouns
+
+I use they/them pronouns :)
 
 ### 📫 Where you can find me
 
