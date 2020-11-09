@@ -7,6 +7,7 @@ I use they/them pronouns :)
 ### 📫 Where you can find me
 
 [LinkedIn](https://www.linkedin.com/in/arejayelle)
+[Artstation](http://arejayelle.artstation.com/)
 
 ## Past work
 - Software Developer Intern - Unity (Summer 2020)
