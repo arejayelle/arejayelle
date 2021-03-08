@@ -10,7 +10,7 @@ I use they/them pronouns :)
 [Artstation](http://arejayelle.artstation.com/)
 
 ## Work
-- Incoming Software Developer Intern - Unity (Summer 2021)
+- **Incoming** Software Developer Intern - Unity (Summer 2021)
 - Software Developer Intern - Unity (Summer 2020)
 - Software Desinger Intern  - Matrox (Summer 2019)
 
