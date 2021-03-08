@@ -9,7 +9,8 @@ I use they/them pronouns :)
 [LinkedIn](https://www.linkedin.com/in/arejayelle)
 [Artstation](http://arejayelle.artstation.com/)
 
-## Past work
+## Work
+- Incoming Software Developer Intern - Unity (Summer 2021)
 - Software Developer Intern - Unity (Summer 2020)
 - Software Desinger Intern  - Matrox (Summer 2019)
 
