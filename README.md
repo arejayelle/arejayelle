@@ -12,7 +12,7 @@ I use they/them pronouns :)
 ## Work
 - Software Developer Intern - Unity (Summer 2021)
 - Software Developer Intern - Unity (Summer 2020)
-- Software Desinger Intern  - Matrox (Summer 2019)
+- Software Designer Intern  - Matrox (Summer 2019)
 
 <!--
 **arejayelle/arejayelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
