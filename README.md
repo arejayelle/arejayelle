@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jun, your local genderfluid software engineer! I've jsut completed my studies at Concordia University in Montreal
+I'm Jun, your local genderfluid software engineer! I've just completed my studies at Concordia University in Montreal!
 
 I use they/them pronouns :)
 
